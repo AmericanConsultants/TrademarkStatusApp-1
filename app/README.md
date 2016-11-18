@@ -31,8 +31,8 @@ $ ionic emulate android
  $rootScope.serverBaseUrl = "<url to services>";
 ```
 ## Running pre-built releases
-* Download [Android APK](.releases/android-release-unsigned.apk) and follow [http://www.greenbot.com/article/2452614/how-to-sideload-an-app-onto-your-android-phone-or-tablet.html](http://www.greenbot.com/article/2452614/how-to-sideload-an-app-onto-your-android-phone-or-tablet.html)
-* Download [iOS IPA](.releases/TSDRMobile.ipa) and follow [http://stackoverflow.com/a/26904969](http://stackoverflow.com/a/26904969)
+* Download [Android APK](releases/android-release-unsigned.apk) and follow [http://www.greenbot.com/article/2452614/how-to-sideload-an-app-onto-your-android-phone-or-tablet.html](http://www.greenbot.com/article/2452614/how-to-sideload-an-app-onto-your-android-phone-or-tablet.html)
+* Download [iOS IPA](releases/TSDRMobile.ipa) and follow [http://stackoverflow.com/a/26904969](http://stackoverflow.com/a/26904969)
 
 ## Other Information
 The United States Department of Commerce (DOC)and the United States Patent and Trademark Office (USPTO) GitHub project code is provided on an ‘as is’ basis without any warranty of any kind, either expressed, implied or statutory, including but not limited to any warranty that the subject software will conform to specifications, any implied warranties of merchantability, fitness for a particular purpose, or freedom from infringement, or any warranty that the documentation, if provided, will conform to the subject software.  DOC and USPTO disclaim all warranties and liabilities regarding third party software, if present in the original software, and distribute it as is.  The user or recipient assumes responsibility for its use. DOC and USPTO have relinquished control of the information and no longer have responsibility to protect the integrity, confidentiality, or availability of the information. 
